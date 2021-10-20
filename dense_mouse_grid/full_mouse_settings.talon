@@ -29,7 +29,7 @@ settings():
 
     # Set the size of the smaller blocks.  This is the setting that ajusts the sizing of everything.  
 
-    user.full_mouse_grid_field_size = "40"
+    user.full_mouse_grid_field_size = "28"
 
     ## ------ label settings
 
