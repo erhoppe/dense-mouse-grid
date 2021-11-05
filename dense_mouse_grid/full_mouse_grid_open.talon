@@ -33,6 +33,9 @@ tag: user.full_mouse_grid_showing
     #input a single letter. Depeing in where you are in the command sequence it will select either a row or a column.
     user.full_grid_input_partial(letter)
 
+alphy close:
+    # close the grid. 
+    user.full_grid_close()
 
 alphabet close:
     # close the grid. 
@@ -63,7 +66,7 @@ thicker broth:
     user.full_grid_adjust_bg_transparency(20)
 
 thinner broth:
-    #Make the large number blocks less visible. 
+    #Make the large number blocks less visibleo 
     user.full_grid_adjust_bg_transparency(-20)
 
 bigger bowl: 

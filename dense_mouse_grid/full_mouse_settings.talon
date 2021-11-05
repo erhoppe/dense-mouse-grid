@@ -30,13 +30,15 @@ settings():
 
     ## ------- overlay transparency settings. 
 
-    #sets the transparecny of the large grid squares
+    #sets the transparency of the large grid squares
 
-    user.full_mouse_grid_superblock_transparency = "0x44"
+#    user.full_mouse_grid_superblock_transparency = "0x44"
+    user.full_mouse_grid_superblock_transparency = "0x14"
 
     ##sets the transparency of the small blocks.
 
-    user.full_mouse_grid_label_transparency = "0x77"
+    #user.full_mouse_grid_label_transparency = "0x77"
+    user.full_mouse_grid_label_transparency = "0x45"
 
     ## ------ label settings
 
